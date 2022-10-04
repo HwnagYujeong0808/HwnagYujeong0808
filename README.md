@@ -1,4 +1,4 @@
-## Hi there, I’m ***HWANG YUJEONG (LUCY)***👋
+## Hi there, I’m **HWANG YUJEONG (LUCY)**👋
 
 <!--
 **HwnagYujeong0808/HwnagYujeong0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
