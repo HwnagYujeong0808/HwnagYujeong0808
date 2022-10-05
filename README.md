@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 *SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY, ITM(Information Technology Management) 3학년 재학*
+
 *UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE, ITM(Information Technology Management) Junior Dual Degree*
 
 📔 I did ...
