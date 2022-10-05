@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 📔 I did ...
     
     - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
+    - 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
     - 2022 a Start-Up Club Project PINGPONG AI
         - 온라인 창업교육 이수
         - 메이커스페이스 제조창업 교육 이수
