@@ -23,17 +23,26 @@ Here are some ideas to get you started:
 📔 I did ...
     
     - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
+    
     - 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
+    
     - 2022 a Start-Up Club Project PINGPONG AI
         - 온라인 창업교육 이수
         - 메이커스페이스 제조창업 교육 이수
         - 시기적절 창업대회 참여 및 수상
+        
+    
+    
     - 3rd Award in Artificial Intelligence Competition for Sustainable Energy UtilizationUtilization
       발행: Korea Institute of Electronics and Korea Production Technology Institute
+    
     - LIKELION 8TH
+    
     - 청년 국가재정 마스터클래스 수료 (Completion of the National Finance Master Class for Young People)
+    
     - University Student Online Education Donation Program AwardUniversity Student Online Education Donation Program
       주관: Ministry of Education / Korea Foundation for Science and Creativity 
+   
     - Ambassador of Seoul National University of Science and Technology
     
    
