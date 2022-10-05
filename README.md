@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         - 온라인 창업교육 이수
         - 메이커스페이스 제조창업 교육 이수
         - 시기적절 창업대회 참여 및 수상
-    - 3rd Award in Artificial Intelligence Competition for Sustainable Energy Utilization3rd Award in Artificial Intelligence Competition for Sustainable Energy Utilization
+    - 3rd Award in Artificial Intelligence Competition for Sustainable Energy UtilizationUtilization
       발행: Korea Institute of Electronics and Korea Production Technology Institute
     - LIKELION 8TH
     - 청년 국가재정 마스터클래스 수료 (Completion of the National Finance Master Class for Young People)
