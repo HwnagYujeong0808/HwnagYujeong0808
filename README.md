@@ -21,12 +21,18 @@ Here are some ideas to get you started:
 
 📔 I did ...
     
-    - 응용확률랩 (강화학습연구실) 소속 학부연구생 
-    - 2022 창업동아리 프로젝트 PINGPONG AI
-    - 지속가능한 에너지 활용을 위한 인공지능 경진대회 3위 수상
-    - LIKELION 8기
-    - 청년 국가재정 마스터클래스 수료
-    - 서울과학기술대학교 홍보대사 어우미
+    - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
+    - 2022 a Start-Up Club Project PINGPONG AI
+        - 온라인 창업교육 이수
+        - 메이커스페이스 제조창업 교육 이수
+        - 시기적절 창업대회 참여 및 수상
+    - 3rd Award in Artificial Intelligence Competition for Sustainable Energy Utilization3rd Award in Artificial Intelligence Competition for Sustainable Energy Utilization
+      발행: Korea Institute of Electronics and Korea Production Technology Institute
+    - LIKELION 8TH
+    - 청년 국가재정 마스터클래스 수료 (Completion of the National Finance Master Class for Young People)
+    - University Student Online Education Donation Program AwardUniversity Student Online Education Donation Program
+      주관: Ministry of Education / Korea Foundation for Science and Creativity 
+    - Ambassador of Seoul National University of Science and Technology
     
    
 ✍ I get certified ...
