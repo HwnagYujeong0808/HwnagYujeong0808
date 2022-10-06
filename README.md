@@ -66,10 +66,6 @@ Here are some ideas to get you started:
 - IT Service Idea Project Management Contest (Gold Award🥇-2021)
     - Idea development of "Surabi" that is prescription, medical certificate, health examination results management application
 
-- ITM Major Video Contest (Gold Award🥇-2021)
-    - Creat video about IT Service Development Contest Preparation Process
-    - Youtube: https://www.youtube.com/watch?v=WQUlm43yk-o
-
 - SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
     - Develop an web page ‘TotheGEM’, Lost and Found Service 
     - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
