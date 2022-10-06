@@ -59,8 +59,9 @@ Here are some ideas to get you started:
         - Idea Contest for Efficient Electricity Sales among Distributed Power Generation Subjects using Multi-Agent Reinforcement Learning
         - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
     
-    - IT Service Development Contest (Silver Award🥈-2021)
-        - Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
+    + IT Service Development Contest (Silver Award🥈-2021)
+        
+        + Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
     
     - IT Service Idea Project Management Contest (Gold Award🥇-2021)
         - Idea development of "Surabi" that is prescription, medical certificate, health examination results management application
