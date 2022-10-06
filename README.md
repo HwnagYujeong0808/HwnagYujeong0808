@@ -25,26 +25,26 @@ Here are some ideas to get you started:
 
 ## 📔 I did ...
     
-    - Conducting a voltage control research of DC-DC Converter using reinforcement learning (Currently..)
-    
-    - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
-    
-    - 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
-    
-    - 2022 a Start-Up Club Project PINGPONG AI
-        - Completion of online start-up education
-        - Makerspace Manufacturing Start-up Training Completed
-        - Attracting Investment in "SIGIJUCJUL" start-up competitions
-        
-    - Mini BEAR Engineering Research Program
-    
-    - LIKELION 8TH
-    
-    - Completion of the National Finance Master Course for the Young
-    
-    - University Student Online Education Donation Program
+- Conducting a voltage control research of DC-DC Converter using reinforcement learning (Currently..)
 
-    - Ambassador of Seoul National University of Science and Technology
+- Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
+
+- 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
+
+- 2022 a Start-Up Club Project PINGPONG AI
+    - Completion of online start-up education
+    - Makerspace Manufacturing Start-up Training Completed
+    - Attracting Investment in "SIGIJUCJUL" start-up competitions
+
+- Mini BEAR Engineering Research Program
+
+- LIKELION 8TH
+
+- Completion of the National Finance Master Course for the Young
+
+- University Student Online Education Donation Program
+
+- Ambassador of Seoul National University of Science and Technology
     
 ## 🏆 I got Award ...
 
@@ -79,24 +79,24 @@ Here are some ideas to get you started:
     
 ## ✍ I get certified ...
 
-    - ADsP (Data Analysis Quasi-expert)
-    - IELTS 6.5/9.0
+- ADsP (Data Analysis Quasi-expert)
+- IELTS 6.5/9.0
    
 
 ## 👀 I’m interested in ...
 
 🌱 I’m currently learning ...
 
-    - PYTHON (programming language / data mining / business analytics)
-    - JAVA (operating systems design)
-    - C programming (operating systems design)
-    - R (Introduction to statistical processing)
-    - SQL (database management)
-    - KOTLIN (mobile programming)
+- PYTHON (programming language / data mining / business analytics)
+- JAVA (operating systems design)
+- C programming (operating systems design)
+- R (Introduction to statistical processing)
+- SQL (database management)
+- KOTLIN (mobile programming)
    
 
 ## 📫 How to contact me ...
 
-    - e-mail : huj0808@seoultech.ac.kr
+- e-mail : huj0808@seoultech.ac.kr
 
 
