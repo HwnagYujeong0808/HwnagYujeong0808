@@ -48,37 +48,37 @@ Here are some ideas to get you started:
     
 ## 🏆 I got Award ...
 
-    - Global Challenger (Gold Award🥇)
-        - Researched on computer vision industry
-        - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
-        - Learn about the scalability of training posture correction technology using motion recognition
-        - Apply the knowledge gained from the interview to the PINGPONG AI project 
-    
-    - 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
-        - Published: Korea Institute of Electronics and Korea Production Technology Institute
-        - Idea Contest for Efficient Electricity Sales among Distributed Power Generation Subjects using Multi-Agent Reinforcement Learning
-        - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
-    
-    + IT Service Development Contest (Silver Award🥈-2021)
-        
-        + Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
-    
-    - IT Service Idea Project Management Contest (Gold Award🥇-2021)
-        - Idea development of "Surabi" that is prescription, medical certificate, health examination results management application
-    
-    - ITM Major Video Contest (Gold Award🥇-2021)
-        - Creat video about IT Service Development Contest Preparation Process
-        - Youtube: https://www.youtube.com/watch?v=WQUlm43yk-o
-        
-    - SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
-        - Develop an web page ‘TotheGEM’, Lost and Found Service 
-        - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
-        
-    - Java Programming Competition (Silver Award🥈-2021)
-        - Develop a program ‘INavi’ (ITM major MBTI Test) game using JAVA 
-    
-    - IT Service Idea Project Management Contest (Silver Award🥈-2020)
-        - Idea development of ‘TotheGEM’ Lost and Found Service Planning
+- Global Challenger (Gold Award🥇)
+    - Researched on computer vision industry
+    - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
+    - Learn about the scalability of training posture correction technology using motion recognition
+    - Apply the knowledge gained from the interview to the PINGPONG AI project 
+
+- 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
+    - Published: Korea Institute of Electronics and Korea Production Technology Institute
+    - Idea Contest for Efficient Electricity Sales among Distributed Power Generation Subjects using Multi-Agent Reinforcement Learning
+    - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
+
+- IT Service Development Contest (Silver Award🥈-2021)
+
+    - Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
+
+- IT Service Idea Project Management Contest (Gold Award🥇-2021)
+    - Idea development of "Surabi" that is prescription, medical certificate, health examination results management application
+
+- ITM Major Video Contest (Gold Award🥇-2021)
+    - Creat video about IT Service Development Contest Preparation Process
+    - Youtube: https://www.youtube.com/watch?v=WQUlm43yk-o
+
+- SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
+    - Develop an web page ‘TotheGEM’, Lost and Found Service 
+    - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
+
+- Java Programming Competition (Silver Award🥈-2021)
+    - Develop a program ‘INavi’ (ITM major MBTI Test) game using JAVA 
+
+- IT Service Idea Project Management Contest (Silver Award🥈-2020)
+    - Idea development of ‘TotheGEM’ Lost and Found Service Planning
         
     
 ## ✍ I get certified ...
