@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     
 ## 🏆 I got Award ...
 
-- Global Challenger (Gold Award🥇)
+- Global Challenger (Gold Award🥇-2022)
     - Researched on computer vision industry
     - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
     - Learn about the scalability of training posture correction technology using motion recognition
