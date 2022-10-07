@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - Mini BEAR Engineering Research Program
 
 - LIKELION 8TH
+    - Develop a PDFLO service that allows people to buy and sell word files by changing them to PDFs through our web platform
 
 - Completion of the National Finance Master Course for the Young
 
