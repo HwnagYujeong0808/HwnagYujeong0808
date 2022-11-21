@@ -77,16 +77,13 @@ Here are some ideas to get you started:
 - IELTS 6.5/9.0
    
 
-### 👀 I’m interested in ...
-
-🌱 I’m currently learning ...
-
-- PYTHON (programming language / data mining / business analytics)
-- JAVA (operating systems design)
-- C programming (operating systems design)
-- R (Introduction to statistical processing)
-- SQL (database management)
-- KOTLIN (mobile programming)
+### 🌱 I’m currently learning ...
+    - PYTHON (programming language / data mining / business analytics)
+    - JAVA (operating systems design)
+    - C programming (operating systems design)
+    - R (Introduction to statistical processing)
+    - SQL (database management)
+    - KOTLIN (mobile programming)
    
 
 ### 📫 How to contact me ...
