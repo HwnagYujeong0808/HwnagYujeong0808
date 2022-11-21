@@ -30,51 +30,35 @@ Here are some ideas to get you started:
 - Majoring in Industrial Engineering⚙
 
 ### 📔 I did ...
-    
-- Conducting a voltage control research of DC-DC Converter using reinforcement learning (Currently..)
+    - Conducting a voltage control research of DC-DC Converter using reinforcement learning (Currently..)
+    - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
+    - 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
+    - 2022 a Start-Up Club Project PINGPONG AI
+    - Mini BEAR Engineering Research Program
+    - LIKELION 8TH
+    - Completion of the National Finance Master Course for the Young
+    - University Student Online Education Donation Program
+    - Ambassador of Seoul National University of Science and Technology
 
-- Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
-
-- 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
-
-- 2022 a Start-Up Club Project PINGPONG AI
-
-- Mini BEAR Engineering Research Program
-
-- LIKELION 8TH
-    
-- Completion of the National Finance Master Course for the Young
-
-- University Student Online Education Donation Program
-
-- Ambassador of Seoul National University of Science and Technology
-    
 ### 🏆 I got Award ...
-
-- Global Challenger (Gold Award🥇-2022)
-    - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
-    - Learn about the scalability of training posture correction technology using motion recognition
-   
-- 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
-    - Published: Korea Institute of Electronics and Korea Production Technology Institute
-    - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
-
-- IT Service Development Contest (Silver Award🥈-2021)
-    - Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
-
-- IT Service Idea Project Management Contest (Gold Award🥇-2021)
-   
-- SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
-    - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
-
-- Java Programming Competition (Silver Award🥈-2021)
-    - Develop a program ‘INavi’ (ITM major MBTI Test) game using JAVA 
+    - Global Challenger (Gold Award🥇-2022)
+        - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
+        - Learn about the scalability of training posture correction technology using motion recognition
+    - 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
+        - Published: Korea Institute of Electronics and Korea Production Technology Institute
+        - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
+    - IT Service Development Contest (Silver Award🥈-2021)
+        - Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
+    - IT Service Idea Project Management Contest (Gold Award🥇-2021)
+    - SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
+        - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
+    - Java Programming Competition (Silver Award🥈-2021)
+        - Develop a program ‘INavi’ (ITM major MBTI Test) game using JAVA 
      
     
 ### ✍ I get certified ...
-
-- ADsP (Data Analysis Quasi-expert)
-- IELTS 6.5/9.0
+    - ADsP (Data Analysis Quasi-expert)
+    - IELTS 6.5/9.0
    
 
 ### 🌱 I’m currently learning ...
