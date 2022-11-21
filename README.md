@@ -1,4 +1,4 @@
-# Yujeong Hwang (LUCY)🐰
+## Yujeong Hwang (LUCY)🐰
 
 <!--
 **HwnagYujeong0808/HwnagYujeong0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📚 Skills 
+### 📚 Skills 
 
 + Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
 + Framework:  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwnagYujeong0808&theme=midnight-purple&show_icons=true)
 
-## 👩‍🎓 Education 
+### 👩‍🎓 Education 
 
 **Seoul National University of Science and Technology**
 - Information Technology Management✍
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 **Northumbria University** *(Dual Degree)* 
 - Majoring in Industrial Engineering⚙
 
-## 📔 I did ...
+### 📔 I did ...
     
 - Conducting a voltage control research of DC-DC Converter using reinforcement learning (Currently..)
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 - Ambassador of Seoul National University of Science and Technology
     
-## 🏆 I got Award ...
+### 🏆 I got Award ...
 
 - Global Challenger (Gold Award🥇-2022)
     - Researched on computer vision industry
@@ -84,13 +84,13 @@ Here are some ideas to get you started:
     - Idea development of ‘TotheGEM’ Lost and Found Service Planning
         
     
-## ✍ I get certified ...
+### ✍ I get certified ...
 
 - ADsP (Data Analysis Quasi-expert)
 - IELTS 6.5/9.0
    
 
-## 👀 I’m interested in ...
+### 👀 I’m interested in ...
 
 🌱 I’m currently learning ...
 
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 - KOTLIN (mobile programming)
    
 
-## 📫 How to contact me ...
+### 📫 How to contact me ...
 
 - e-mail : huj0808@seoultech.ac.kr
 
