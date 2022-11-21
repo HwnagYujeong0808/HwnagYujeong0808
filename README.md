@@ -34,7 +34,9 @@ Here are some ideas to get you started:
     - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
     - 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
     - 2022 a Start-Up Club Project PINGPONG AI
+    - Participation of the Korea Computer Conference (KCC2022)
     - Mini BEAR Engineering Research Program
+    - Python/Java/C Instructor at High Media Computer Academy
     - LIKELION 8TH
     - Completion of the National Finance Master Course for the Young
     - University Student Online Education Donation Program
@@ -42,18 +44,16 @@ Here are some ideas to get you started:
 
 ### 🏆 I got Award ...
     - Global Challenger (Gold Award🥇-2022)
-        - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
-        - Learn about the scalability of training posture correction technology using motion recognition
+    - Winning 'SIGIJUCJUL' start-up competition for the start-up club project "PINGPONG AI" project (2022)
     - 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
         - Published: Korea Institute of Electronics and Korea Production Technology Institute
-        - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
+        - Using the multi-agent reinforcement learning algorithm
     - IT Service Development Contest (Silver Award🥈-2021)
         - Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
     - IT Service Idea Project Management Contest (Gold Award🥇-2021)
     - SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
         - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
     - Java Programming Competition (Silver Award🥈-2021)
-        - Develop a program ‘INavi’ (ITM major MBTI Test) game using JAVA 
      
     
 ### ✍ I get certified ...
