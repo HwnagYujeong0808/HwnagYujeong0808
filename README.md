@@ -41,19 +41,19 @@ Here are some ideas to get you started:
     - Ambassador of Seoul National University of Science and Technology
 
 ### 🏆 I got Award ...
-- Global Challenger (Gold Award🥇-2022)
-    - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
-    - Learn about the scalability of training posture correction technology using motion recognition
-- 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
-    - Published: Korea Institute of Electronics and Korea Production Technology Institute
-    - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
-- IT Service Development Contest (Silver Award🥈-2021)
-    - Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
-- IT Service Idea Project Management Contest (Gold Award🥇-2021)
-- SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
-    - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
-- Java Programming Competition (Silver Award🥈-2021)
-    - Develop a program ‘INavi’ (ITM major MBTI Test) game using JAVA 
+    - Global Challenger (Gold Award🥇-2022)
+        - Conducted interviews after contacting overseas consulting companies (Fujitsu and computer vision center)
+        - Learn about the scalability of training posture correction technology using motion recognition
+    - 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
+        - Published: Korea Institute of Electronics and Korea Production Technology Institute
+        - Using the multi-agent reinforcement learning algorithm, Train the agent to effectively distribute the surplus solar power to other homes or Kepco considering the current progressive system0
+    - IT Service Development Contest (Silver Award🥈-2021)
+        - Develop an accounting automation program "EASY Financial Audit Program" using OCR technology
+    - IT Service Idea Project Management Contest (Gold Award🥇-2021)
+    - SeoulTech Pathfinder Program Ontact Activities (Silver Award🥈-2021)
+        - Youtube: https://www.youtube.com/watch?v=R7-4NuJzNok
+    - Java Programming Competition (Silver Award🥈-2021)
+        - Develop a program ‘INavi’ (ITM major MBTI Test) game using JAVA 
      
     
 ### ✍ I get certified ...
