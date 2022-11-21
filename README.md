@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### 🏆 I got Award ...
     - Global Challenger (Gold Award🥇-2022)
-    - Winning 'SIGIJUCJUL' start-up competition for the start-up club project "PINGPONG AI" project (2022)
+    - Winning 'SIGIJUCJUL' start-up competition for the start-up club project "PINGPONG AI" project (Winner Award🏅-2022)
     - 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
         - Published: Korea Institute of Electronics and Korea Production Technology Institute
         - Using the multi-agent reinforcement learning algorithm
