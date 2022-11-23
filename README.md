@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - Majoring in Industrial Engineering⚙
 
 ### 📔 I did ...
+    - Attending Samsung AI Forum
     - Conducting a voltage control research of DC-DC Converter using reinforcement learning (Currently..)
     - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
     - 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
