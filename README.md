@@ -43,6 +43,7 @@ Here are some ideas to get you started:
     - Ambassador of Seoul National University of Science and Technology
 
 ### 🏆 I got Award ...
+    - IT App Development Contest (Gold Award🥇-2022)
     - Global Challenger (Gold Award🥇-2022)
     - Winning 'SIGIJUCJUL' start-up competition for the start-up club project "PINGPONG AI" project (Winner Award🏅-2022)
     - 3rd place in Artificial Intelligence Competition for Sustainable Energy Utilization (Bronze Award🥉-2022)
