@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 + Programming: <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
 + Framework:  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwnagYujeong0808&theme=midnight-purple&show_icons=true)
-
 ### 👩‍🎓 Education 
 
 **Seoul National University of Science and Technology**
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 - Majoring in Industrial Engineering⚙
 
 ### 📔 I did ...
-    - Conducting a voltage control research of DC-DC Converter using reinforcement learning (Currently..)
+    - Capstone project "Emotion-based Multimodal Learning Model for YouTube Video Highlight Detection"
     - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
     - 2022 Construction of a reinforcement learning baseline called 'Sim-baseline' in Applied Probability Lab
     - 2022 a Start-Up Club Project PINGPONG AI
