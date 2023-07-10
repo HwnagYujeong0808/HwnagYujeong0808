@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 👩‍🎓 Education 
 
 **Seoul National University of Science and Technology**
-- Information Technology Management✍
+- Information Technology Management✍ (1/29)
 
 **Northumbria University** *(Dual Degree)* 
 - Majoring in Industrial Engineering⚙
