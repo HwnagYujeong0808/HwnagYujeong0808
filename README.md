@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 **Northumbria University** *(Dual Degree)* 
 - Majoring in Industrial Engineering⚙
 
+**University of Hradec Kr´alov´e**
+- Exchange Student in Information Management
+
 ### 📔 I did ...
     - Capstone project "Emotion-based Multimodal Learning Model for YouTube Video Highlight Detection"
     - Undergraduate researchers from Applied Probability Lab (Reinforcement Learning Lab)
