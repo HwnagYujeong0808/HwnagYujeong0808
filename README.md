@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### 👩‍🎓 Education 
 
+**University at Albany, SUNY**
+- Information Science, Ph.D
 **Seoul National University of Science and Technology**
 - Information Technology Management✍ (1/250)
 
