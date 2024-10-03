@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 👩‍🎓 Education 
 
-**University at Albany, SUNY**
+**State University of New York at Albany**
 - Information Science, Ph.D
 
 **Seoul National University of Science and Technology**
