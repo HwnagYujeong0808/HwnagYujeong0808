@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 
 ### 📫 How to contact me ...
 
-- e-mail : huj0808@seoultech.ac.kr
+- e-mail : yhwang5@albany.edu
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwnagYujeong0808%2FHwnagYujeong0808%2Fblob%2Fmain%2FREADME.md&count_bg=%23FFA8C1&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23FF7B8B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
